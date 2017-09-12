@@ -1,0 +1,5 @@
+#ignore class files
+*.class
+#ignore README.md
+README.md
+
